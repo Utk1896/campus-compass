@@ -171,3 +171,10 @@ Usage Instructions
 5. View Saved Locations  
    Click any marker to read the name and review.
 
+### Screenshots
+Map Page
+![image](https://github.com/user-attachments/assets/01bf851d-4d05-49c1-b6be-9893a3df24ec)
+Login Page
+![image](https://github.com/user-attachments/assets/92a4f6cf-dc67-4afd-b0f2-c1511ca24b82)
+Signup Page
+![image](https://github.com/user-attachments/assets/7e85e56a-49c4-457f-9d0e-131236e483d5)
