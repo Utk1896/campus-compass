@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+../campus-compass-backend/node_modules
+../campus-compass-backend/.env
