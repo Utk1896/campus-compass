@@ -90,13 +90,13 @@ npm install
 
 ### Start Backend
 ```bash
-cd backend
+cd campus-compass-backend
 npm run dev
 ```
 
 ### Start Frontend
 ```bash
-cd ../frontend
+cd campus-compass-frontend
 npm run dev
 ```
 
